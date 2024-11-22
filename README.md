@@ -12,11 +12,6 @@ This project aims to address this gap by developing a simple Cree language trans
 A petition was started (https://support.google.com/translate/thread/99846065/will-google-translate-answer-the-petition-to-add-cree?hl=en) to add Cree to Google Translator. However, Google does not have a timeline for adding Cree. There is also an effort on Change.org (https://www.change.org/p/google-inc-include-first-nations-languages-on-google-translate) to include First Nations languages on Google Translate.
 
 
-## GUI
-
-![Alt text](C:\Users\USER\indeginous-language-translation-app\Screenshot 2024-11-22 150029.png)
-
-
 ## Examples
 
 Convert SRO to syllabics

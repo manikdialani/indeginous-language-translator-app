@@ -14,7 +14,7 @@ A petition was started (https://support.google.com/translate/thread/99846065/wil
 
 ## GUI
 
-![Alt text](C:\Users\USER\Codes\indeginous-language-translation-app\Screenshot 2024-11-22 150029.png)
+![Alt text](C:\Users\USER\indeginous-language-translation-app\Screenshot 2024-11-22 150029.png)
 
 
 ## Examples
